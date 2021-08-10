@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @CristalGaming
+- 👀 I’m interested in minecraft mods and animations
+- 🌱 I’m currently learning java
